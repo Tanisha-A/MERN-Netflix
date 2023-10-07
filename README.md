@@ -1,5 +1,5 @@
 # ZENSU OTT MERN
-> The project for MERN course.
+> The project for the MERN course.
 
 <h2 id="table-of-contents"> Table of Contents</h2>
 <details open="open">
